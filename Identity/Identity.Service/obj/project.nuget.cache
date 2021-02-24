@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rK0B/zyWnx95Iug56hNv22QtTjD1OpMDSRZ8Un+0Lrvny05hg/EImzCMH9arsDhL5alojkKq0YqHNQMPt6n1+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cauen\\projects\\can-identity\\Identity\\Identity.Service\\Identity.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cauen\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
+    "C:\\Users\\cauen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cauen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

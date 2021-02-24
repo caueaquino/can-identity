@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s9jT8vrIcYpbHY5IPWmPD2m7XOuhx/Bospl1b4h6punnu4s+R5hiItlC2dPxGRiDvEgVlIgfRBdfz4TjBXZ95A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cauen\\projects\\can-identity\\Identity\\Identity.Application\\Identity.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cauen\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

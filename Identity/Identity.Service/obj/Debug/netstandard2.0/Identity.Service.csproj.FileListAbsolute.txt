@@ -1,0 +1,5 @@
+C:\Users\cauen\projects\can-identity-api\Identity\Identity.Service\bin\Debug\netstandard2.0\Identity.Service.deps.json
+C:\Users\cauen\projects\can-identity-api\Identity\Identity.Service\bin\Debug\netstandard2.0\Identity.Service.dll
+C:\Users\cauen\projects\can-identity-api\Identity\Identity.Service\obj\Debug\netstandard2.0\Identity.Service.csprojAssemblyReference.cache
+C:\Users\cauen\projects\can-identity-api\Identity\Identity.Service\obj\Debug\netstandard2.0\Identity.Service.AssemblyInfoInputs.cache
+C:\Users\cauen\projects\can-identity-api\Identity\Identity.Service\obj\Debug\netstandard2.0\Identity.Service.AssemblyInfo.cs
